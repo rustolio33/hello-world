@@ -1,0 +1,35 @@
+[
+	{
+		"address": "56 Lake Street",
+		"type": "single family residence",
+		"garage": "attached",
+		"lot size": "1 acre",
+		"heating type": "oil hydronic",
+		"rooms": {
+			"bedrooms": "4",
+			"bathrooms": "2.5",
+		}
+	},
+	{
+		"address": "2665 Oak Street",
+		"type": "townhome",
+		"garage": "detached",
+		"lot size": "0.10 acre",
+		"heating type": "gas forced air",
+		"rooms": {
+			"bedrooms": "3",
+			"bathrooms": "3",
+		}
+	},
+	{
+		"address": "258 Mill Road",
+		"type": "single family residence",
+		"garage": "none",
+		"lot size": "2.3",
+		"heating type": "electric/woodstove",
+		"rooms": {
+			"bedrooms": "3",
+			"bathrooms": "1.5",
+		}
+	},
+]
