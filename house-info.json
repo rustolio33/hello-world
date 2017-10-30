@@ -4,7 +4,7 @@
 		"type": "single family residence",
 		"garage": "attached",
 		"lot size": "1 acre",
-		"heating type": "oil hydronic",
+		"heating": "oil hydronic",
 		"rooms": {
 			"bedrooms": "4",
 			"bathrooms": "2.5"
@@ -15,7 +15,7 @@
 		"type": "townhome",
 		"garage": "detached",
 		"lot size": "0.10 acre",
-		"heating type": "gas forced air",
+		"heating": "gas forced air",
 		"rooms": {
 			"bedrooms": "3",
 			"bathrooms": "3"
@@ -26,7 +26,7 @@
 		"type": "single family residence",
 		"garage": "none",
 		"lot size": "2.3",
-		"heating type": "electric and woodstove",
+		"heating": "electric and woodstove",
 		"rooms": {
 			"bedrooms": "3",
 			"bathrooms": "1.5"
